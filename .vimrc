@@ -12,3 +12,6 @@ set noswapfile                  " do not write annoying intermediate swap files,
                                 "    who did ever restore from swap files anyway?"
 set visualbell                  " don't beep"
 set noerrorbells                " don't beep"
+
+
+colorscheme relaxedgreen
