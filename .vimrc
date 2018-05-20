@@ -1,4 +1,4 @@
-set nu
+set relativenumber
 set hlsearch
 set tabstop=4                   " a tab is four spaces
 set softtabstop=4               " when hitting <BS>, pretend like a tab is removed, even if spaces
